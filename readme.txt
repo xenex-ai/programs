@@ -6,7 +6,8 @@ Interaktive Steuerung mehrerer Python-Skripte in je eigener Session
 ==================================================================
 Ausführung
 ---------------
-chmod +x mastershell.py
+Install library --> pip install -r requirements.txt
+start master --> chmod +x mastershell.py
 
 
 Voraussetzungen
